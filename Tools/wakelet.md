@@ -2,12 +2,12 @@
 
 [<img src="images/wakelet.png" align="bottom" height="120" alt="wakelet Logo">](https://wakelet.com)
 
-Save links from the web, organize them into visual collections, and share them with the world!.
+Save links from the web, organize them into visual collections, and share them with the world!
 
 
 ## Detailed description & quick guide
 
-Wakelet is the quickest and easiest way to save and organize content!.
+Wakelet is the quickest and easiest way to save and organize content!
 
 
 ## Additional details
